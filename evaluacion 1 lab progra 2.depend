@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1711125521 source:c:\users\dell\documents\programacion 2\evaluacion 1 lab progra 2\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Cliente.h"
+	"Prestamo.h"
+
+1710634536 c:\users\dell\documents\programacion 2\evaluacion 1 lab progra 2\cliente.h
+	<string>
+
+1710710082 c:\users\dell\documents\programacion 2\evaluacion 1 lab progra 2\prestamo.h
+	"Cliente.h"
+	"Pago.h"
+
+1710634498 c:\users\dell\documents\programacion 2\evaluacion 1 lab progra 2\pago.h
+	"Fecha.h"
+
+1710628614 c:\users\dell\documents\programacion 2\evaluacion 1 lab progra 2\fecha.h
+	<iostream>
+
